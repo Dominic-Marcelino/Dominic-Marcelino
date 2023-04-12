@@ -12,7 +12,7 @@
 
 ---
 ### Stack that I generally use in my projects
-![WordPress](https://img.shields.io/static/v1?style=flat&message=WordPress&color=373e47&logo=WordPress&logoColor=21759B&label=&cacheSeconds=36000)
+![WordPress](https://img.shields.io/static/v1?style=flat&message=WordPress&color=373e47&logo=WordPress&logoColor=ffffff&label=&cacheSeconds=36000)
 ![Directus](https://img.shields.io/static/v1?style=flat&message=directus&color=373e47&logo=directus&logoColor=ffffff&label=&cacheSeconds=36000)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=373e47&logo=Tailwind+CSS&logoColor=06B6D4&label=&cacheSeconds=36000)
 ![NUXT](https://img.shields.io/static/v1?style=flat&message=Nuxt&color=373e47&logo=nuxtdotjs&logoColor=00DC82&label=&cacheSeconds=36000)
